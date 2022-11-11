@@ -63,7 +63,7 @@ On the holidays, even though the overall demand is fairly low, between 2pm-8pm t
 
 ***
 Linear Regression Model:
-<img width="825" alt="image" src="https://user-images.githubusercontent.com/95839987/200171693-06f46898-175d-4c16-adc4-59adf401e9b5.png">
+![image](https://user-images.githubusercontent.com/95839987/201302873-7ea59dc2-0ea5-4cf2-aa6e-475840a072ae.png)
 
 Parameters	Results
 R^2	0.665
@@ -72,8 +72,7 @@ Train MSE	0.019
 Test MSE	0.018
 CV Mean	0.020
 
-![image](https://user-images.githubusercontent.com/95839987/201302742-5f2be782-cb8d-4a86-8976-0dad384b75a6.png)
-
+![image](https://user-images.githubusercontent.com/95839987/201302919-21aeb609-5d72-4777-98f0-5c8f375a794f.png)
 
 ***
 ## Conclusions
