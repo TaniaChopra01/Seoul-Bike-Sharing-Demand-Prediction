@@ -70,7 +70,10 @@ R^2	0.665
 Adj R^2	0.664
 Train MSE	0.019
 Test MSE	0.018
-CV Mean	0.020<img width="940" alt="image" src="https://user-images.githubusercontent.com/95839987/200171701-e1ad3abe-516a-41e9-a900-b182b7600042.png">
+CV Mean	0.020
+
+![image](https://user-images.githubusercontent.com/95839987/201302742-5f2be782-cb8d-4a86-8976-0dad384b75a6.png)
+
 
 ***
 ## Conclusions
